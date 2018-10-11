@@ -1,15 +1,14 @@
 ---
-title: "My First Post"
-date: 2018-10-10T18:56:47-06:00
-draft: false
-image: "uploads/cool-photo-01.jpeg"
+title: My First Post
+date: 2018-10-11 00:56:47 +0000
+image: uploads/cool-photo-01.jpeg
+
 ---
+# Contenido del servicio láser
 
-# AweSome Post
+Emphasis, aka italics, with _asterisks_ or _underscores_.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
 Combined emphasis with **asterisks and _underscores_**.
 
@@ -17,9 +16,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+   ⋅⋅* Unordered sub-list.
+3. Actual numbers don't matter, just that it's a number
+   ⋅⋅1. Ordered sub-list
 4. And another item.
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
@@ -29,5 +28,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+
+
+* Or minuses
+
+
+* Or pluses
